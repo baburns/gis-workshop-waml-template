@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Your New Page's Title
-nav_order: 11
+title: Maps and speeches
+nav_order: 9.5
 ---
 
 # Maps
